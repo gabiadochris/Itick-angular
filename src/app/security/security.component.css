@@ -1,0 +1,11 @@
+.security {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 45px;
+  text-align: center;
+}
+
+li {
+  overflow-wrap: break-word;
+}

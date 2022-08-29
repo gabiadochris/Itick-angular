@@ -1,0 +1,21 @@
+.servSec {
+  margin-top: 8em;
+}
+.servSec h1 {
+  margin-top: 1em;
+}
+
+.servSec p {
+  text-align-last: center;
+  font-weight: 400;
+}
+
+/* card  stylesection  */
+.cardContain {
+  margin-top: 3em;
+  background-color: #f7f8fa93;
+}
+
+.cardLink {
+  text-decoration: none;
+}
