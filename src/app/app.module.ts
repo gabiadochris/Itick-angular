@@ -6,6 +6,7 @@ import { HeaderComponent } from './Header/header/header.component';
 import { HeroComponent } from './Hero/hero/hero.component';
 import { ServicesComponent } from './services/services.component';
 import { SecurityComponent } from './security/security.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { SecurityComponent } from './security/security.component';
     HeaderComponent,
     HeroComponent,
     ServicesComponent,
-    SecurityComponent
+    SecurityComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule
